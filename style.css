@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background: black;
+}
+
+header {
+    background-color: white;
+    padding: 20px;
+}
+
+header img {
+    height: 50px;
+    width: 50px;
+
+
+c
+}
+
+h1 {
+    background-color: white;
+    color: #C78300;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    margin: 50px;
+}
+
+h1 img {
+    width: 248px;
+    height: 213px;
+    border: 20px solid black;
+    margin: 5px;
+}
+
+p img {
+    width: 366px;
+    height: 246px;
+    padding: 30px;
+
+}
+
+footer {
+    background-color: #ECDB9E;
+    padding: 10px;
+    font-size: 20px;
+}
